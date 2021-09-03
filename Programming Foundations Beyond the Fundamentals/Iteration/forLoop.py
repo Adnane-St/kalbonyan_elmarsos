@@ -4,5 +4,5 @@ cities = [
     "Safi",
     "Algerie"
 ]
-print(cities[2])
-#OUPUT: Baghdad
+for city in cities:
+    print(city)
