@@ -10,5 +10,5 @@ i = 0
 #     print(i,"-",city)
 
 while i< len(cities):
-    print(i+1,"-",cities[i])
+    print(i+1," - ",cities[i])
     i += 1
