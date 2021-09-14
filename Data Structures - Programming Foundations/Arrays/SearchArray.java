@@ -8,6 +8,6 @@ public static void main(String args[]){
     myArrayList.add(2,10)
     System.out.println(myArrayList);
 
-    System.out.println(myArrayList.indexOf(20))
-    System.out.println(myArrayList.indexOf(10))
+    System.out.println(myArrayList.indexOf(20))//-1
+    System.out.println(myArrayList.indexOf(10))//10
 }
